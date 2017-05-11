@@ -9,6 +9,7 @@ import SecondaryContent from './shared/layout/SecondaryContent'
 
 import Donut from './shared/charts/Donut'
 import Logo from './shared/logo/Logo'
+import ToggleSwitch from './shared/switch/ToggleSwitch'
 import './App.css';
 
 class App extends Component {
@@ -17,7 +18,8 @@ class App extends Component {
       <Layout>
           <Sidebar>
             <Logo color='#fff'/>
-            <Donut value={50} />
+            <ToggleSwitch/>
+            <Donut value={75} />
           </Sidebar>
           <Main>
             <Topbar>
