@@ -60,13 +60,11 @@ class ToggleSwitch extends Component{
   }
 
   handleOn = () =>{
-    console.log('on')
     this.props.switchOn()
   }
 
   handleOff = () => {
-    console.log('off')
-    this.props.switchOn()
+    this.props.switchOff()
   }
 
   render() {
