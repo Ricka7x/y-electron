@@ -8,6 +8,7 @@ import PrimaryContent from './shared/layout/PrimaryContent'
 import SecondaryContent from './shared/layout/SecondaryContent'
 
 import Donut from './shared/charts/Donut'
+import Logo from './shared/logo/Logo'
 import './App.css';
 
 class App extends Component {
@@ -15,6 +16,7 @@ class App extends Component {
     return (
       <Layout>
           <Sidebar>
+            <Logo color='#fff'/>
             <Donut value={50} />
           </Sidebar>
           <Main>
