@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_listing copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_listing-copy" transform="translate(-1.000000, -1.000000)" stroke="#000000" stroke-width="2">
+            <g id="ic_listing" stroke-linecap="round" stroke-linejoin="round">
+                <g id="Group" transform="translate(2.000000, 2.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="20" height="20" rx="4"></rect>
+                </g>
+            </g>
+            <path d="M17,2.5 L17,21.5" id="Line" stroke-linecap="square"></path>
+            <path d="M5.5,8 L13.5,8" id="Line" stroke-linecap="round"></path>
+            <path d="M5.5,12 L13.5,12" id="Line-Copy" stroke-linecap="round"></path>
+            <path d="M5.5,16 L13.5,16" id="Line-Copy-2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
