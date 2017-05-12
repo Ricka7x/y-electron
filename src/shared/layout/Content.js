@@ -5,4 +5,4 @@ const Content = styled.div`
   width: 100%;
   display: flex;
 `
-export default Content
+export {Content}

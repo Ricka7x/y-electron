@@ -6,4 +6,4 @@ const SecondaryContent = styled.div`
   height: 100%;
   display: ${props => props.visible ? 'block' : 'none'};
 `
-export default SecondaryContent
+export {SecondaryContent}

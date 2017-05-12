@@ -6,4 +6,4 @@ const PrimaryContent = styled.div`
   height: 100%;
   overflow-y: auto;
 `
-export default PrimaryContent
+export {PrimaryContent}

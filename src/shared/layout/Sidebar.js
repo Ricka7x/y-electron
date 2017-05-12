@@ -5,4 +5,4 @@ const Sidebar = styled.div`
   height: 100%;
   background-color: rgb(67, 84, 98);
 `
-export default Sidebar
+export {Sidebar}

@@ -6,4 +6,4 @@ const Layout = styled.div`
   height: 100%;
   position: fixed;
 `
-export default Layout
+export {Layout}

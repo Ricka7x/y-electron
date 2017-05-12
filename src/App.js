@@ -2,14 +2,8 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import store from './store'
-import Layout from './shared/layout/Layout'
-import Sidebar from './shared/layout/Sidebar'
-import Main from './shared/layout/Main'
-import Content from './shared/layout/Content'
-import Topbar from './shared/layout/Topbar'
-import PrimaryContent from './shared/layout/PrimaryContent'
-import SecondaryContent from './shared/layout/SecondaryContent'
-
+import {Layout, Sidebar, Main, Content, Topbar, PrimaryContent, SecondaryContent} from './shared/layout'
+import {Container} from './shared/grid'
 import Donut from './shared/charts/Donut'
 import ToggleSwitch from './shared/switch/ToggleSwitch'
 
@@ -86,12 +80,14 @@ class App extends Component {
                 <Content>
                   <PrimaryContent>
                     <Switch>
-                      <Route path="/customers" component={Customers}/>
-                      <Route exact path="/" component={Home}/>
+                      <Container fluid>
+                        <Route path="/customers" component={Customers}/>
+                        <Route exact path="/" component={Home}/>
+                      </Container>
                     </Switch>
 
                   </PrimaryContent>
-                  <SecondaryContent visible={false}>
+                  <SecondaryContent visible={true}>
 
                   </SecondaryContent>
                 </Content>
