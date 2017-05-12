@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_swipe</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-169.000000, -410.000000)" stroke="#000000" fill="#FFFFFF">
+            <g id="ic_swipe" transform="translate(168.000000, 408.000000)">
+                <g id="Group" transform="translate(2.000000, 3.000000)">
+                    <path d="M5.28372067,5 L2.00585866,5 C0.897060126,5 0,5.89805351 0,7.00585866 L0,16.9941413 C0,18.1029399 0.898053512,19 2.00585866,19 L11.9941413,19 C13.1029399,19 14,18.1019465 14,16.9941413 L14,16.4704027 L4.93751068,14.042116 C3.86745308,13.7553949 3.23217625,12.656468 3.51915442,11.5854509 L5.28372067,5 Z" id="Combined-Shape" stroke-width="2"></path>
+                    <rect id="Rectangle-Copy-3" stroke-width="2" transform="translate(11.573214, 8.573214) rotate(-345.000000) translate(-11.573214, -8.573214) " x="4.5732141" y="1.5732141" width="14" height="14" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="11px" viewBox="0 0 18 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_quick_access</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-315.000000, -175.000000)" stroke="#000000">
+            <g id="ic_quick_access" transform="translate(312.000000, 168.000000)">
+                <g id="quick_access">
+                    <g transform="translate(4.000000, 7.000000)" stroke-width="2">
+                        <path d="M0,1 L16,1" id="Line"></path>
+                        <path d="M0,10 L12,10" id="Line-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_drawer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="24-px-Icons" transform="translate(-172.000000, -171.000000)" stroke="#000000">
+            <g id="ic_drawer" transform="translate(168.000000, 168.000000)">
+                <g id="drawer">
+                    <g transform="translate(5.000000, 3.000000)" stroke-width="2">
+                        <path d="M0,1 L14,1" id="Line"></path>
+                        <path d="M0,9 L6,9" id="Line"></path>
+                        <path d="M0,17 L14,17" id="Line"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

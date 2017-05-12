@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_claim</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-461.000000, -219.000000)" stroke="#000000">
+            <g id="ic_claim" transform="translate(456.000000, 216.000000)">
+                <g id="claim">
+                    <g transform="translate(6.000000, 4.000000)" stroke-width="2">
+                        <path d="M0,3.99620271 C0,1.78916089 1.79652125,0 3.99582624,0 L12,0 L12,12.0037973 C12,14.2108391 10.2034788,16 8.00417376,16 L0,16 L0,3.99620271 Z" id="Rectangle-8"></path>
+                        <path d="M4,8 L8,8" id="Line"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

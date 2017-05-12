@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_share</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-123.000000, -170.000000)" stroke="#000000">
+            <g id="ic_share" transform="translate(120.000000, 168.000000)">
+                <g id="share">
+                    <g transform="translate(4.000000, 3.000000)" stroke-width="2">
+                        <circle id="Oval-3" stroke-linecap="round" cx="13" cy="3" r="3"></circle>
+                        <circle id="Oval-3-Copy" stroke-linecap="round" cx="3" cy="10" r="3"></circle>
+                        <circle id="Oval-3-Copy-2" stroke-linecap="round" cx="13" cy="16" r="3"></circle>
+                        <path d="M6,8 L10,5" id="Line" stroke-linecap="square"></path>
+                        <path d="M6,12 L10,14" id="Line" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

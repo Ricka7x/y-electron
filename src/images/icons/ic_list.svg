@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_list</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-122.000000, -457.000000)" stroke="#000000">
+            <g id="ic_list" transform="translate(120.000000, 456.000000)">
+                <g id="Group">
+                    <g transform="translate(3.000000, 2.000000)" stroke-width="2">
+                        <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                        <path d="M8,2 L18,2" id="Line"></path>
+                        <path d="M8,10 L18,10" id="Line-Copy"></path>
+                        <path d="M8,18 L18,18" id="Line-Copy-2"></path>
+                        <circle id="Oval-Copy" cx="2" cy="10" r="2"></circle>
+                        <circle id="Oval-Copy-2" cx="2" cy="18" r="2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

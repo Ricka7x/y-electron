@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_visibility_off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-121.000000, -74.000000)" stroke="#000000">
+            <g id="ic_visibility_off" transform="translate(120.000000, 72.000000)">
+                <g id="Group">
+                    <g transform="translate(2.000000, 3.000000)" stroke-width="2">
+                        <path d="M0.200036231,9 C1.1265769,4.43551936 5.16208418,1 10,1 C14.8379158,1 18.8734231,4.43551936 19.7999638,9 C18.8734231,13.5644806 14.8379158,17 10,17 C5.16208418,17 1.1265769,13.5644806 0.200036231,9 Z" id="Combined-Shape"></path>
+                        <circle id="Oval" cx="10" cy="9" r="3"></circle>
+                        <path d="M1,18 L19,3.55271368e-15" id="Line"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

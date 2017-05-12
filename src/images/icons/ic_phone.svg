@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-171.000000, -315.000000)" stroke="#000000">
+            <g id="ic_phone" transform="translate(168.000000, 312.000000)">
+                <g id="phone">
+                    <g transform="translate(4.000000, 4.000000)" stroke-width="2">
+                        <path d="M0,0 C0,8.836556 7.163444,16 16,16 L16,16" id="Oval-2"></path>
+                        <path d="M0,4.57624585e-14 L6,-1.12968337e-08 L6,4.99999999 L1.16303409,6 C0.41301427,4.14713713 0,2.12180089 0,4.57624585e-14 Z" id="Combined-Shape"></path>
+                        <path d="M16,16 L16,10 L11,10 L10,14.8369659 C11.8528629,15.5869857 13.8781991,16 16,16 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

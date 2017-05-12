@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24-px-Icons" transform="translate(-217.000000, -219.000000)" stroke="#000000">
+            <g id="ic_camera" transform="translate(216.000000, 216.000000)">
+                <g id="camera">
+                    <g transform="translate(2.000000, 4.000000)" stroke-width="2">
+                        <rect id="Rectangle-5" stroke-linecap="round" stroke-linejoin="round" x="0" y="3" width="20" height="14"></rect>
+                        <circle id="Oval" cx="13" cy="10" r="3"></circle>
+                        <rect id="Rectangle" stroke-linecap="round" stroke-linejoin="round" fill="#000000" x="2" y="0" width="6" height="3"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_sub_division</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="24-px-Icons" transform="translate(-409.000000, -313.000000)" stroke="#000000">
+            <g id="ic_sub_division" transform="translate(408.000000, 312.000000)">
+                <g id="sub_division">
+                    <g transform="translate(1.000000, 1.000000)" stroke-width="2">
+                        <circle id="Oval-4" cx="11" cy="11" r="6"></circle>
+                        <path d="M10,1 L12,1 M17.363961,3.22182541 L18.7781746,4.63603897 M21,10 L21,12 M18.7781746,17.363961 L17.363961,18.7781746 M12,21 L10,21 M4.63603897,18.7781746 L3.22182541,17.363961 M1,12 L1,10 M3.22182541,4.63603897 L4.63603897,3.22182541" id="Line"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
