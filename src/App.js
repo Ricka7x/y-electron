@@ -15,6 +15,7 @@ import Brand from './components/menu/Brand'
 import Logo from './components/logo/Logo'
 
 import Home from './components/home/Home'
+import Top from './components/top/Top'
 import Customers from './components/customers/Customers'
 import './App.css';
 import IconHome from './images/icons/IconHome3';
@@ -75,7 +76,7 @@ class App extends Component {
               </Sidebar>
               <Main>
                 <Topbar>
-
+                  <Top/>
                 </Topbar>
                 <Content>
                   <PrimaryContent>
