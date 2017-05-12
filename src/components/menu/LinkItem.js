@@ -7,7 +7,7 @@ const LinkContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 10px;
+  padding: 5px 10px;
   position: relative;
 `
 

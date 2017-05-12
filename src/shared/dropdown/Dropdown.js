@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
-import styled, {keyframes} from 'styled-components'
-import IconHome from './../../images/icons/IconHome3'
+import styled from 'styled-components'
 const DropdownContainer = styled.div`
   display: flex;
   align-items: center;
@@ -56,6 +55,10 @@ const Badge = styled.span`
   font-weight: bold;
 `
 
+const Icon = styled.i`
+  color: ${props => props.color}
+`
+
 const LinkIconContainer = styled.div`
   display: flex;
   justify-content: center;
@@ -83,12 +86,12 @@ class Dropdown extends Component {
         <DropdownMenu open={this.state.open} className={this.state.open ? 'open' : ''}>
           <DropdownMenuItem>
             <LinkIconContainer>
-              <IconHome stroke='#3BADFE' fill='none'/>&nbsp;profile
+              <Icon className='dripicons-user' color='#3BADFE'/>&nbsp;&nbsp;profile
             </LinkIconContainer>
           </DropdownMenuItem>
           <DropdownMenuItem>
             <LinkIconContainer>
-              <IconHome stroke='#B584F9 ' fill='none'/>&nbsp;messages
+              <Icon className='dripicons-bell' color='#B584F9'/>&nbsp;&nbsp;messages
             </LinkIconContainer>
             <Badge>
               11
@@ -96,7 +99,7 @@ class Dropdown extends Component {
           </DropdownMenuItem>
           <DropdownMenuItem>
             <LinkIconContainer>
-              <IconHome stroke='#FF5263' fill='none'/>&nbsp;logout
+              <Icon className='dripicons-exit' color='#FF5263'/>&nbsp;&nbsp;logout
             </LinkIconContainer>
           </DropdownMenuItem>
         </DropdownMenu>

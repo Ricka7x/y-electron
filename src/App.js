@@ -18,8 +18,7 @@ import Home from './components/home/Home'
 import Top from './components/top/Top'
 import Customers from './components/customers/Customers'
 import './App.css';
-import IconHome from './images/icons/IconHome3';
-import IconProfile from './images/icons/IconProfile2';
+import './fonts/dripicons.css';
 
 class App extends Component {
   render() {
@@ -38,19 +37,19 @@ class App extends Component {
                     catalogo
                   </MenuHeader>
 
-                  <LinkItem to='/' exact icon={<IconHome stroke='#fff' fill='none'/>}>
+                  <LinkItem to='/' exact icon={<i className='dripicons-home'></i>}>
                     Home
                   </LinkItem>
-                  <LinkItem to='/customers' icon={<IconProfile stroke='#fff' fill='none'/>}>
+                  <LinkItem to='/customers' icon={<i className='dripicons-user-group'></i>}>
                     Clientes
                   </LinkItem>
-                  <LinkItem to='/subscriptions' icon={<IconProfile stroke='#fff' fill='none'/>}>
+                  <LinkItem to='/subscriptions' icon={<i className='dripicons-calendar'></i>}>
                     Suscripciones
                   </LinkItem>
-                  <LinkItem to='/layaways' icon={<IconProfile stroke='#fff' fill='none'/>}>
+                  <LinkItem to='/layaways' icon={<i className='dripicons-clockwise'></i>}>
                     Parcialidades
                   </LinkItem>
-                  <LinkItem to='/payments' icon={<IconProfile stroke='#fff' fill='none'/>}>
+                  <LinkItem to='/payments' icon={<i className='dripicons-card'></i>}>
                     Pagos
                   </LinkItem>
 
@@ -60,10 +59,10 @@ class App extends Component {
                     administracion
                   </MenuHeader>
 
-                  <LinkItem to='/users' exact icon={<IconHome stroke='#fff' fill='none'/>}>
+                  <LinkItem to='/users' exact icon={<i className='dripicons-user-id'></i>}>
                     Usuarios
                   </LinkItem>
-                  <LinkItem to='/bussines' icon={<IconProfile stroke='#fff' fill='none'/>}>
+                  <LinkItem to='/bussines' icon={<i className='dripicons-suitcase'></i>}>
                     Datos de Negocio
                   </LinkItem>
 
